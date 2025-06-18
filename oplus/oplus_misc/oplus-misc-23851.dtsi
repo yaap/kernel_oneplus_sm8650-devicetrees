@@ -4,7 +4,6 @@
 	qcom,lra-period-us = <5882>;
 	qcom,fifo-vmax-mv = <9000>;
 	qcom,old-steady-vmax-mv = <9000>;
-	qcom,brake-mode = <BRAKE_OPEN_LOOP>;
 	qcom,cal-data-restore;
 	qcom,fifo-empty-threshold = <480>;
 	qcom,vibrator-type = <809>;//0809
